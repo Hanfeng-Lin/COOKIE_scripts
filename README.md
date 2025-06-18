@@ -46,6 +46,8 @@ The repository contains scripts for two distinct high-throughput analyses.
 
 ### 1. Reanalysis of SLC-ABPP Dataset
 
+`SLC-ABPP_2021_reanalyze.ipynb`
+
 This analysis converts single-point, experimental condition-dependent competition ratios (CR) into thermodynamic inactivation constants ($K_I$).
 
 **Workflow:**
@@ -55,6 +57,8 @@ This analysis converts single-point, experimental condition-dependent competitio
 * Downstream metrics like Ligand Efficiency (LE) and Ligand Lipophilic Efficiency (LLE) are then calculated from the derived $K_I$ values.
 
 ### 2. Two-Point COOKIE-Pro Fragment Screening
+
+`Two-point_COOKIE.ipynb`
 
 This analysis processes data from the included `PeptideGroups` dataset, which was generated from a screen of 16 fragments at two concentrations (20 µM and 50 µM).
 
