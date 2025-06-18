@@ -25,7 +25,7 @@ Lin, H., Yang, B., Ding, L., Holt, M. V., Jung, S. Y., Zhang, B., Wang, M. C., &
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [https://github.com/Hanfeng-Lin/COOKIE_scripts.git](https://github.com/Hanfeng-Lin/COOKIE_scripts.git)
+    git clone https://github.com/Hanfeng-Lin/COOKIE_scripts.git
     cd COOKIE_scripts
     ```
 
