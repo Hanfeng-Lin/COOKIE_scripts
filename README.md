@@ -14,7 +14,7 @@ This repository contains scripts to perform two main analyses described in our m
 
 If you use this code or the COOKIE-Pro method in your research, please cite our publication:
 
-Lin, H., Yang, B., Ding, L., Holt, M. V., Jung, S. Y., Zhang, B., Wang, M. C., & Wang, J. (2024). COOKIE-Pro: Covalent Inhibitor Binding Kinetics Profiling on the Proteome Scale. *Journal Name*, Volume(Issue), pages. [DOI]
+Lin, H., Yang, B., Ding, L., Yen-Yu, Y., Holt, M. V., Jung, S. Y., Zhang, B., Wang, M. C., & Wang, J. (2025). COOKIE-Pro: Covalent Inhibitor Binding Kinetics Profiling on the Proteome Scale. *Journal Name*, Volume(Issue), pages. [DOI]
 
 
 ## System Requirements
